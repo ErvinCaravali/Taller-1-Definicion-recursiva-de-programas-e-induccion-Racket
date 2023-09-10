@@ -21,7 +21,7 @@ Descarga e instala Git desde [https://git-scm.com/](https://git-scm.com/).
 
 Antes de comenzar, configura tu nombre de usuario y dirección de correo electrónico:
 
-```bash
+
 git config --global user.name "Tu Nombre"
 git config --global user.email "tu@email.com"
 
